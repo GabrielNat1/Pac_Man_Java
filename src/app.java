@@ -18,6 +18,6 @@ public class app  {
         PacMan pacmanGame = new PacMan();
         frame.add(pacmanGame);
         frame.pack();
-        frame.setvisible();
+        frame.setVisible(true);
     }
 }
